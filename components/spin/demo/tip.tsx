@@ -17,8 +17,8 @@ const App: React.FC = () => (
 
     <Spin tip="Loading...">
       <Alert
-        message="Alert message title"
-        description="Further details about the context of this alert."
+        message="提示"
+        description="提交成功，系统正在努力推送中！"
         type="info"
       />
     </Spin>
